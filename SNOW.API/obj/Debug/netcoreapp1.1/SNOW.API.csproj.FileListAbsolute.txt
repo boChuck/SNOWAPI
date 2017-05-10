@@ -1,0 +1,8 @@
+C:\Projects\SNOW.API\SNOW.API\bin\Debug\netcoreapp1.1\SNOW.API.deps.json
+C:\Projects\SNOW.API\SNOW.API\bin\Debug\netcoreapp1.1\SNOW.API.runtimeconfig.json
+C:\Projects\SNOW.API\SNOW.API\bin\Debug\netcoreapp1.1\SNOW.API.runtimeconfig.dev.json
+C:\Projects\SNOW.API\SNOW.API\bin\Debug\netcoreapp1.1\SNOW.API.dll
+C:\Projects\SNOW.API\SNOW.API\bin\Debug\netcoreapp1.1\SNOW.API.pdb
+C:\Projects\SNOW.API\SNOW.API\obj\Debug\netcoreapp1.1\SNOW.API.AssemblyInfo.cs
+C:\Projects\SNOW.API\SNOW.API\obj\Debug\netcoreapp1.1\SNOW.API.dll
+C:\Projects\SNOW.API\SNOW.API\obj\Debug\netcoreapp1.1\SNOW.API.pdb

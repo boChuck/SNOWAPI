@@ -1,0 +1,12 @@
+C:\Projects\SNOW.API\SNOWAPITest\bin\Debug\netcoreapp1.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Projects\SNOW.API\SNOWAPITest\bin\Debug\netcoreapp1.1\xunit.runner.utility.netstandard15.dll
+C:\Projects\SNOW.API\SNOWAPITest\bin\Debug\netcoreapp1.1\xunit.runner.reporters.netstandard15.dll
+C:\Projects\SNOW.API\SNOWAPITest\bin\Debug\netcoreapp1.1\SNOWAPITest.deps.json
+C:\Projects\SNOW.API\SNOWAPITest\bin\Debug\netcoreapp1.1\SNOWAPITest.runtimeconfig.json
+C:\Projects\SNOW.API\SNOWAPITest\bin\Debug\netcoreapp1.1\SNOWAPITest.runtimeconfig.dev.json
+C:\Projects\SNOW.API\SNOWAPITest\bin\Debug\netcoreapp1.1\SNOWAPITest.dll
+C:\Projects\SNOW.API\SNOWAPITest\bin\Debug\netcoreapp1.1\SNOWAPITest.pdb
+C:\Projects\SNOW.API\SNOWAPITest\obj\Debug\netcoreapp1.1\SNOWAPITest.csprojResolveAssemblyReference.cache
+C:\Projects\SNOW.API\SNOWAPITest\obj\Debug\netcoreapp1.1\SNOWAPITest.AssemblyInfo.cs
+C:\Projects\SNOW.API\SNOWAPITest\obj\Debug\netcoreapp1.1\SNOWAPITest.dll
+C:\Projects\SNOW.API\SNOWAPITest\obj\Debug\netcoreapp1.1\SNOWAPITest.pdb
